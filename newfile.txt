@@ -1,0 +1,8 @@
+#profile-title: ПРОБНИК
+#profile-update-interval: 1
+#subscription-userinfo: upload=0; download=0; total=1073741824000; expire=
+#announce: ПРОБА
+#support-url: https://t.me/AetrisVPN
+#profile-web-page-url: https://pay.cloudtips.ru/p/6f2a7544
+#hide-settings: 1
+vless://3c565fd5-f215-4033-a952-983fdee5590a@64.188.83.181:443?encryption=none&fp=firefox&pbk=RrXSBuYXjLktRhuyXn-dWWdFx3Luxz_y7H-ndJuBwFk&security=reality&sid=2357714d41d42187&sni=cdncdn2.more-cloude.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20ПРОБНИК
